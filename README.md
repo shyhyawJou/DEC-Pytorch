@@ -2,6 +2,25 @@
 original paper -> [Unsupervised Deep Embedding for Clustering Analysis](https://www.bing.com/search?q=Unsupervised+Deep+Embedding+for+Clustering+Analysis&form=ANNTH1&refig=3b7a5c033c41457db6af0ebf56b3250a)
 
 # Clustering Result
+<table>
+  <tr>
+    <td><img src="assets/loss.png" alt="image1"></td>
+    <td><img src="assets/acc.png" alt="image2"></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="assets/epoch_5.png" alt="image1"></td>
+    <td><img src="assets/epoch_10.png" alt="image1"></td>
+    <td><img src="assets/epoch_15.png" alt="image1"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/epoch_20.png" alt="image1"></td>
+    <td><img src="assets/epoch_25.png" alt="image1"></td>
+    <td><img src="assets/epoch_30.png" alt="image1"></td>
+  </tr>
+</table>
 
 # Usage
 ```
