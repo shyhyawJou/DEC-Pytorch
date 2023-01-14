@@ -3,7 +3,7 @@ original paper -> [Unsupervised Deep Embedding for Clustering Analysis](https://
 
 # Clustering Result
 Accuracy of training data -> 87.57%  
-Accuracy of test data -> 87.50%
+Accuracy of test data     -> 87.50%
 <table>
   <tr>
     <td><img src="assets/loss.png" alt="image1"></td>
