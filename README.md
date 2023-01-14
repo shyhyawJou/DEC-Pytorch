@@ -2,7 +2,8 @@
 original paper -> [Unsupervised Deep Embedding for Clustering Analysis](https://www.bing.com/search?q=Unsupervised+Deep+Embedding+for+Clustering+Analysis&form=ANNTH1&refig=3b7a5c033c41457db6af0ebf56b3250a)
 
 # Clustering Result
-Clustering Accuracy can reach 87.5%  
+Accuracy of training data -> 87.57%  
+Accuracy of test data -> 87.50%
 <table>
   <tr>
     <td><img src="assets/loss.png" alt="image1"></td>
