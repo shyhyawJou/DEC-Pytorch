@@ -13,12 +13,6 @@ Clustering Accuracy can reach 87.5%
 <table>
   <tr>
     <td><img src="assets/epoch_5.png" alt="image1"></td>
-    <td><img src="assets/epoch_10.png" alt="image1"></td>
-    <td><img src="assets/epoch_15.png" alt="image1"></td>
-  </tr>
-  <tr>
-    <td><img src="assets/epoch_20.png" alt="image1"></td>
-    <td><img src="assets/epoch_25.png" alt="image1"></td>
     <td><img src="assets/epoch_30.png" alt="image1"></td>
   </tr>
 </table>
